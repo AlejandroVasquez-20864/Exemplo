@@ -5,7 +5,7 @@ public class Main {
     public static void main(String[] args) {
         double k, x=0, y=0, z=0.3;
         do{
-            
+            //comienza el do/while
             k=10+z;
             while(k>0){
                 k = k-0.1;
@@ -22,5 +22,4 @@ public class Main {
         
         System.out.println("FIM");
     }
-    
-}
+    }
